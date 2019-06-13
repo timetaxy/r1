@@ -1,0 +1,16 @@
+D:\git\r1\src\main\java\org\telegram\telegrambots\updatesreceivers\DefaultBotSession.java
+D:\git\r1\src\main\java\org\telegram\telegrambots\bots\TelegramLongPollingBot.java
+D:\git\r1\src\main\java\org\telegram\telegrambots\Constants.java
+D:\git\r1\src\main\java\org\telegram\telegrambots\facilities\proxysocketfactorys\HttpSSLConnectionSocketFactory.java
+D:\git\r1\src\main\java\org\telegram\telegrambots\bots\DefaultBotOptions.java
+D:\git\r1\src\main\java\org\telegram\telegrambots\bots\TelegramWebhookBot.java
+D:\git\r1\src\main\java\org\telegram\telegrambots\updatesreceivers\DefaultWebhook.java
+D:\git\r1\src\main\java\org\telegram\telegrambots\facilities\TelegramHttpClientBuilder.java
+D:\git\r1\src\main\java\org\telegram\telegrambots\updatesreceivers\ExponentialBackOff.java
+D:\git\r1\src\main\java\org\telegram\telegrambots\util\WebhookUtils.java
+D:\git\r1\src\main\java\org\telegram\telegrambots\ApiContextInitializer.java
+D:\git\r1\src\main\java\org\telegram\telegrambots\facilities\proxysocketfactorys\SocksSSLConnectionSocketFactory.java
+D:\git\r1\src\main\java\org\telegram\telegrambots\updatesreceivers\RestApi.java
+D:\git\r1\src\main\java\org\telegram\telegrambots\bots\DefaultAbsSender.java
+D:\git\r1\src\main\java\org\telegram\telegrambots\facilities\proxysocketfactorys\SocksConnectionSocketFactory.java
+D:\git\r1\src\main\java\org\telegram\telegrambots\facilities\proxysocketfactorys\HttpConnectionSocketFactory.java
